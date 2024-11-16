@@ -1,0 +1,14 @@
+body{
+    font-family: roboto, arial;
+    color: blue;
+    background-color: darkseagreen;
+    padding: 1cm;
+    background-image: 
+}
+nav ul{
+list-style: none;
+display: flex;
+justify-content: center;
+margi: 0.1cm;
+
+}
